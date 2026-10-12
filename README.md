@@ -10,3 +10,4 @@ Oku (deger)
 EGER deger>=50 YAZ "Kritik Eşik"
 DEĞİLSE YAZ "Durum Normal"
 DUR
+## Kaynakça : Ders Kitabı
